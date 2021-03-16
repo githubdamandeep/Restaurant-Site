@@ -1,0 +1,53 @@
+html,body{
+	
+	padding: 0px;
+	margin: 0px;
+}
+.brand-head{
+	font-family: 'Lobster', cursive;
+	font-size: 3rem;
+
+}
+.brand-foot{
+	font-size: 1rem;
+	font-family: 'Lobster', cursive;
+}
+body{
+	background-color: #FB8122;
+	
+}
+.nav-head{
+	background-color: #1D2228;
+}
+li>a{
+	color: #E1E2E2;
+	text-decoration-color: #E1E2E2;
+}
+
+.footer-style{
+	background-color: #1D2228;
+	color:  #E1E2E2;
+}
+.card{
+	background-color: #1D2228;
+	color: #E1E2E2;
+	text-align: center;
+	font-weight: 900;
+	margin-bottom: 2rem;
+
+}
+
+.about-head{
+	font-family: 'Lobster', cursive;
+	font-size: 4rem;
+
+}
+
+
+@media (max-width: 767.98px) { 
+.card-img-top{
+	height: auto;
+	width: auto;
+	}};
+
+
